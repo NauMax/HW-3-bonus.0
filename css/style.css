@@ -1,0 +1,49 @@
+* {
+ margin: 0;
+ padding: 0;
+}
+body {
+ background-image: url(../img/f11.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+font-family: Arial, sans-serif;
+width: 960px;
+height: 883px;
+}
+.container {
+width:90%;
+margin-left: 27%;
+}
+
+.logo {
+	margin-top:90px;
+}
+.contact{
+ float: right;
+ margin-top: 170px;
+ margin-right: 70px;
+}
+.content {
+ margin-top: -20px;
+ position: relative;
+ overflow: hidden;
+ clear: both;
+}
+.menu {
+ display: inline-block;
+ padding-bottom: 40px;
+}
+.img{
+  opacity: 0.7;
+}
+ .img:hover{
+   width: 280px;
+	 opacity: 1;
+ }
+
+.footer {
+ text-align: center;
+ padding-top: 165px;
+ font-size: 15px;
+color: #fff
+}
